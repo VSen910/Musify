@@ -26,7 +26,7 @@ Musify is a music player app which can play all sorts of audio files.
 - Play all kinds of audio files
 - Play music/audio in the background (closed the app)
 - Support for controls in the notifications
-- Fetches all the audio files int the device
+- Fetches all the audio files in the device
 
 
 ## Future Scope
