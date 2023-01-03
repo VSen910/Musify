@@ -48,6 +48,8 @@ Flutter, Dart
 
 ## Screenshots
 
-<img src="screenshots/Screenshot_20221230_160253.png" alt="drawing" width="200"/> |
-<img src="screenshots/Screenshot_20221230_160400.png" alt="drawing" width="200"/>
+<p float="left">
+   <img src="screenshots/Screenshot_20221230_160253.png" alt="drawing" width="200"/>
+   <img src="screenshots/Screenshot_20221230_160400.png" alt="drawing" width="200"/>
+</p>   
 
